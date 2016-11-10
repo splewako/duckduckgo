@@ -3,6 +3,8 @@
                        xmlns:moz="http://www.mozilla.org/2006/browser/search/">
  <ShortName>DuckDuckGo clean</ShortName>
  <Description>Search plugin for DuckDuckGo.com (no history version)</Description>
+ <Contact>searchplugins@splewako.com</Contact>
+ <Developer>Stefan Plewako, splewako.com</Developer>
  <InputEncoding>UTF-8</InputEncoding>
  <moz:SearchForm>https://duckduckgo.com</moz:SearchForm>
  <Url method="POST" template="https://duckduckgo.com" type="text/html">
